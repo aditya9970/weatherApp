@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c49ec7ba.chunk.css",
+    "main.js": "/static/js/main.73958174.chunk.js",
+    "main.js.map": "/static/js/main.73958174.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dbafcd4d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dbafcd4d.js.map",
+    "static/js/2.2c8de82b.chunk.js": "/static/js/2.2c8de82b.chunk.js",
+    "static/js/2.2c8de82b.chunk.js.map": "/static/js/2.2c8de82b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.99404218cc98cd5235904239ad5cffde.js": "/precache-manifest.99404218cc98cd5235904239ad5cffde.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c49ec7ba.chunk.css.map": "/static/css/main.c49ec7ba.chunk.css.map",
+    "static/js/2.2c8de82b.chunk.js.LICENSE.txt": "/static/js/2.2c8de82b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/thunderstorm-bg.d82f3744.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbafcd4d.js",
+    "static/js/2.2c8de82b.chunk.js",
+    "static/css/main.c49ec7ba.chunk.css",
+    "static/js/main.73958174.chunk.js"
+  ]
+}
